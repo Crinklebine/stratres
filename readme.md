@@ -19,3 +19,6 @@
 ### Sureshkurella
 1. https://www.tradingview.com/script/ev8OgkUk-Strat-with-FTC/
 2. https://www.tradingview.com/script/Al8vQZ3A-FTC-and-Intraday-setups/
+
+### SilentJatt
+1. https://www.tradingview.com/script/idDydr1G-TheStratHelper/
