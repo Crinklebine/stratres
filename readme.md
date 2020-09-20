@@ -22,3 +22,6 @@
 
 ### SilentJatt
 1. https://www.tradingview.com/script/idDydr1G-TheStratHelper/
+
+### wolffnbear
+https://www.tradingview.com/script/Osssk8AS-Strat-Candles-Open-Levels-Active-FTFC/
